@@ -30,10 +30,10 @@ When I'm not coding, I write proses and poems ✍️
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzokenzo&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzokenzo&layout=compact&theme=radical)
 ---
 
 💡 *"Taking use of what I have from my pocket :)"*
