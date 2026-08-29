@@ -1,6 +1,6 @@
 # Hi, I'm Hans Ken De La Viña 👋
 
-🎓 BSIS (Bachelor of Science in Information Systems) — 4th Year College Student
+🎓 BSIS (Bachelor of Science in Information Systems) 4th Year College Student
 📍 Based in Bacolod City, Negros Occidental, Philippines
 
 I'm working my way through school with limited resources, but I'm determined to turn my project ideas into real, working systems not just plans on paper. Right now I'm focused on making one of my projects come to life in real-time.
